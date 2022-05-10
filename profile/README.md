@@ -6,6 +6,9 @@
 
 ## **Profiles**
 
+We are a team of 6 consist of 2 CC Learning Path Students, 2 ML Learning Path Students, and 2 MD Learning Path Students.
+<br/>
+
 ### Members
 
 - **Cloud Computing Learning Path**
