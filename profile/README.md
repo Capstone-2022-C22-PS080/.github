@@ -28,3 +28,11 @@
   - Nabilah Putri Cantika (**A7211F1961**) (_Universitas Indraprasta_)
     <br />
     <br />
+
+### Project Title:
+
+**Skin Disease Detection Using Image Classification Based on Android “SSkin”**
+
+### Proposal Link
+
+> [click here](https://docs.google.com/document/d/1HenIqoP5-g7DLbogeNNVU4GM7mitQjOYjeaPgTbd3UI/edit?usp=sharing)
