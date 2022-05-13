@@ -1,5 +1,9 @@
 <h2 align="center">Bangkit Capstone Project 2022</h2>
 <br />
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/105267397?s=400&u=3c4165b1956698e8df8e07b62d72ba4c3803d3f2&v=4" />
+</div>
+<br />
 <h1 align="center">Hi, we are C22-PS080</h1>
 
 <br />
