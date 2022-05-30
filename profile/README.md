@@ -69,3 +69,26 @@ There are 3 main features we're planning for the app,
 - For authentication we will use Firebase Authentication, allowing user to sign up either with email and password, or just simply OAuth button tap.
 - For serving user-related data such as user profile and diagnostic histories.
 - Most prediction stuffs are mainly handled by Google App Engine that act as a REST API server that serves prediction from Vertex AI's model endpoint. After getting prediction result from Vertex AI's model endpoint, based from the result, GAE will fetch diagnosed skin disease's data from PostgreSQL instance (Compute Engine) that act as database instance. Before responding to the mobile client, GAE will also store request payload photos of user's skin region to Cloud Storage.
+
+## Documentation
+
+### Presentation
+
+[Click Here](https://bit.ly/3MZCqzG)
+
+### Figma
+
+- [Prototype](https://bit.ly/3lXmPF2)
+- [Screens](https://bit.ly/3wZdCT2)
+
+### Github
+
+- [REST API](https://github.com/Capstone-2022-C22-PS080/rest-api)
+- [Prediction model train](https://github.com/Capstone-2022-C22-PS080/ML-Bangkit-Capstone)
+- [Android App](https://github.com/Capstone-2022-C22-PS080/SkinDisease)
+
+### Dataset
+
+- [Dermnet Public Dataset](https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
+
+### Research
