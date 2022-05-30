@@ -76,6 +76,12 @@ There are 3 main features we're planning for the app,
 
 [Click Here](https://bit.ly/3MZCqzG)
 
+### Logo
+
+<a href="https://raw.githubusercontent.com/Capstone-2022-C22-PS080/.github/main/sskin_logo.png">
+<img src="https://raw.githubusercontent.com/Capstone-2022-C22-PS080/.github/main/sskin_logo.png" height="150" />
+</a>
+
 ### Figma
 
 - [Prototype](https://bit.ly/3lXmPF2)
