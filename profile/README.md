@@ -15,26 +15,14 @@ We are a team of 6 consist of 2 CC Learning Path Students, 2 ML Learning Path St
 
 ### Members
 
-- **Cloud Computing Learning Path**
-
-  - Ardinata Hari Saputra (**C2009G0955**) (_Universitas Gunadarma_)
-  - Muhammad Rayhan Hamada Budiman (**C2009G0981**) (_Universitas Gunadarma_)
-    <br />
-    <br />
-
-- **Machine Learning Learning Path**
-
-  - Amar Rahman Kamal (**M2004F0189**) (_Institut Teknologi Sepuluh November_)
-  - Rizkyka Mediano Sandie (**M7009G0995**) (_Universitas Gunadarma_)
-    <br />
-    <br />
-
-- **Mobile Development Learning Path**
-
-  - Ahmad Budi Gustama (**A7211G1943**) (_Universitas Indraprasta_)
-  - Nabilah Putri Cantika (**A7211F1961**) (_Universitas Indraprasta_)
-    <br />
-    <br />
+| Learning Path      | Name                           | Student ID     | University                          | Contacts |
+| ------------------ | ------------------------------ | -------------- | ----------------------------------- | -------- |
+| Cloud Computing    | Ardinata Hari Saputra          | **C2009G0955** | Gunadarma                           |
+| Cloud Computing    | Muhammad Rayhan Hamada Budiman | **C2009G0981** | Gunadarma                           |
+| Machine Learning   | Amar Rahman Kamal              | **M2004F0189** | Institut Teknologi Sepuluh November |
+| Machine Learning   | Rizkyka Mediano Sandie         | **M7009G0995** | Gunadarma                           |
+| Mobile Development | Ahmad Budi Gustama             | **A7211G1943** | Universitas Indraprasta             |
+| Mobile Development | Nabilah Putri Cantika          | **A7211F1961** | Universitas Indraprasta             |
 
 ### Project Title:
 
