@@ -76,10 +76,13 @@ There are 3 main features we're planning for the app,
 - [Screens](https://bit.ly/3wZdCT2)
 
 ### Github
+- Main Repositories
+  - [REST API](https://github.com/Capstone-2022-C22-PS080/rest-api)
+  - [SSkin Model Trainer](https://github.com/Capstone-2022-C22-PS080/ML-Bangkit-Capstone)
+  - [Android App](https://github.com/Capstone-2022-C22-PS080/SkinDisease)
 
-- [REST API](https://github.com/Capstone-2022-C22-PS080/rest-api)
-- [Prediction model train](https://github.com/Capstone-2022-C22-PS080/ML-Bangkit-Capstone)
-- [Android App](https://github.com/Capstone-2022-C22-PS080/SkinDisease)
+- Utility Repositories
+  - [Model Uploader](https://github.com/Capstone-2022-C22-PS080/Model-Uploader)
 
 ### Dataset
 
