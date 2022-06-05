@@ -66,9 +66,7 @@ There are 3 main features we're planning for the app,
 
 ### Logo
 
-<a href="https://raw.githubusercontent.com/Capstone-2022-C22-PS080/.github/main/sskin_logo.png">
 <img src="https://raw.githubusercontent.com/Capstone-2022-C22-PS080/.github/main/sskin_logo.png" height="150" />
-</a>
 
 ### Figma
 
@@ -76,7 +74,9 @@ There are 3 main features we're planning for the app,
 - [Screens](https://bit.ly/3wZdCT2)
 
 ### Github
+
 - Main Repositories
+
   - [REST API](https://github.com/Capstone-2022-C22-PS080/rest-api)
   - [SSkin Model Trainer](https://github.com/Capstone-2022-C22-PS080/ML-Bangkit-Capstone)
   - [Android App](https://github.com/Capstone-2022-C22-PS080/SkinDisease)
