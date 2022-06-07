@@ -83,7 +83,7 @@ No Background
 
   - [REST API](https://github.com/Capstone-2022-C22-PS080/rest-api)
   - [SSkin Model Trainer](https://github.com/Capstone-2022-C22-PS080/ML-Bangkit-Capstone)
-  - [Android App](https://github.com/Capstone-2022-C22-PS080/SkinDisease)
+  - [Android App](https://github.com/Capstone-2022-C22-PS080/sskin-mobile)
 
 - Utility Repositories
   - [Model Uploader](https://github.com/Capstone-2022-C22-PS080/Model-Uploader)
