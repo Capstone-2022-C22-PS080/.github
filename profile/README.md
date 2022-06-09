@@ -17,12 +17,12 @@ We are a team of 6 consist of 2 CC Learning Path Students, 2 ML Learning Path St
 
 | Learning Path      | Name                           | Student ID     | University                          | Contacts                                                                                                                           |
 | ------------------ | ------------------------------ | -------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Cloud Computing    | Ardinata Hari Saputra          | **C2009G0955** | Universitas Gunadarma               | [LinkedIn]() <br /> [Github](https://github.com/Ardinatahs)                                                                        |
+| Cloud Computing    | Ardinata Hari Saputra          | **C2009G0955** | Universitas Gunadarma               | [LinkedIn](https://www.linkedin.com/in/ardinata-hari-saputra-5a7a17112/) <br /> [Github](https://github.com/Ardinatahs)                                                                        |
 | Cloud Computing    | Muhammad Rayhan Hamada Budiman | **C2009G0981** | Universitas Gunadarma               | [LinkedIn](https://www.linkedin.com/in/muhammad-rayhan-hamada-budiman-033021194/) <br /> [Github](https://github.com/RayhanHamada) |
-| Machine Learning   | Amar Rahman Kamal              | **M2004F0189** | Institut Teknologi Sepuluh November | [LinkedIn]() <br /> [Github](https://github.com/Chagiyaa)                                                                          |
-| Machine Learning   | Rizkyka Mediano Sandie         | **M7009G0995** | Universitas Gunadarma               | [LinkedIn]() <br /> [Github](https://github.com/medianosandie)                                                                     |
+| Machine Learning   | Amar Rahman Kamal              | **M2004F0189** | Institut Teknologi Sepuluh November | [LinkedIn](https://www.linkedin.com/in/amarrahman/) <br /> [Github](https://github.com/Chagiyaa)                                                                          |
+| Machine Learning   | Rizkyka Mediano Sandie         | **M7009G0995** | Universitas Gunadarma               | [LinkedIn](https://www.linkedin.com/in/rizkyka-mediano-sandie-b93729199/) <br /> [Github](https://github.com/medianosandie)                                                                     |
 | Mobile Development | Ahmad Budi Gustama             | **A7211G1943** | Universitas Indraprasta             | [LinkedIn]() <br /> [Github](https://github.com/abgits)                                                                            |
-| Mobile Development | Nabilah Putri Cantika          | **A7211F1961** | Universitas Indraprasta             | [LinkedIn]() <br /> [Github](https://github.com/nabilapisi)                                                                        |
+| Mobile Development | Nabilah Putri Cantika          | **A7211F1961** | Universitas Indraprasta             | [LinkedIn](https://www.linkedin.com/in/nabilah-putri-cantika-3524521b4/) <br /> [Github](https://github.com/nabilapisi)                                                                        |
 
 ### Project Title:
 
