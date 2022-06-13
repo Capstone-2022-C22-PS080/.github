@@ -62,7 +62,7 @@ There are 3 main features we're planning for the app,
 
 ### Presentation
 
-[Click Here](https://bit.ly/3MZCqzG)
+[Click Here](https://docs.google.com/presentation/d/1MbPqGRJB-EM06c_LJ1SJnsGC9DQgufT4/edit?usp=sharing&ouid=114472393941862928228&rtpof=true&sd=true)
 
 ### Logo
 
